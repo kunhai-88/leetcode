@@ -6,7 +6,7 @@
 
 ## 链表
 -  [2.两数相加](https://leetcode.cn/problems/add-two-numbers/) [code](./linklist/2-%E4%B8%A4%E6%95%B0%E7%9B%B8%E5%8A%A0.js)
-- [21.合并两个有序链表] (https://leetcode.cn/problems/merge-two-sorted-lists/)
+- [21.合并两个有序链表](https://leetcode.cn/problems/merge-two-sorted-lists/)
 
 ## 栈
 
