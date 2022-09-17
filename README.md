@@ -13,4 +13,5 @@
 -  [20. 有效的括号](https://leetcode.cn/problems/valid-parentheses/) [code](./stack/20-%E6%9C%89%E6%95%88%E6%8B%AC%E5%8F%B7.js)
 
 ## 动态规划
-- [300. 最长上升子序列](https://time.geekbang.org/course/detail/100019701-69783) [code](./dynamic/300-%E6%9C%80%E9%95%BF%E4%B8%8A%E5%8D%87%E5%AD%90%E5%BA%8F%E5%88%97.js)
+- [300. 最长上升子序列](https://leetcode.cn/problems/longest-increasing-subsequence/) [code](./dynamic/300-%E6%9C%80%E9%95%BF%E4%B8%8A%E5%8D%87%E5%AD%90%E5%BA%8F%E5%88%97.js)
+- [322. 零钱兑换](https://leetcode.cn/problems/coin-change/) [code](./dynamic/322-%E9%9B%B6%E9%92%B1%E5%85%91%E6%8D%A2.js)
