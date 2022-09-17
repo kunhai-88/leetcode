@@ -1,3 +1,6 @@
+// 罗马数字转整数
+// 来源：力扣（LeetCode）
+// 链接：https://leetcode.cn/problems/roman-to-integer
 /**
  * @param {string} s
  * @return {number}
@@ -38,5 +41,3 @@ var romanToInt = function (s) {
   }
   return res.reduce((prev, cur) => prev + cur, 0);
 };
-// 来源：力扣（LeetCode）
-// 链接：https://leetcode.cn/problems/roman-to-integer
