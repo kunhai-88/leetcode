@@ -15,5 +15,6 @@
 
 ## 动态规划
 - [70. 爬楼梯](https://leetcode.cn/problems/climbing-stairs/) [code](./dynamic/70-%E7%88%AC%E6%A5%BC%E6%A2%AF.js)
+- [120. 三角形的最小路径和](https://leetcode.cn/problems/triangle/) [code](./dynamic/120-%E4%B8%89%E8%A7%92%E5%BD%A2%E7%9A%84%E6%9C%80%E5%B0%8F%E8%B7%AF%E5%BE%84%E5%92%8C.js)
 - [300. 最长上升子序列](https://leetcode.cn/problems/longest-increasing-subsequence/) [code](./dynamic/300-%E6%9C%80%E9%95%BF%E4%B8%8A%E5%8D%87%E5%AD%90%E5%BA%8F%E5%88%97.js)
 - [322. 零钱兑换](https://leetcode.cn/problems/coin-change/) [code](./dynamic/322-%E9%9B%B6%E9%92%B1%E5%85%91%E6%8D%A2.js)
