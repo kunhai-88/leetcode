@@ -22,3 +22,6 @@
 
 ## 二分查找 
 - [704. 二分查找](https://leetcode.cn/problems/binary-search/) [code](./binary-search/704-%E4%BA%8C%E5%88%86%E6%9F%A5%E6%89%BE.js)
+
+## LRUCache
+- [146. LRU 缓存](https://leetcode.cn/problems/lru-cache/) [code](./LRU-cache/146.LRU%20%E7%BC%93%E5%AD%98.js)
