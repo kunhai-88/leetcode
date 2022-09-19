@@ -19,3 +19,6 @@
 - [152.乘积最大的子数组](https://leetcode.cn/problems/maximum-product-subarray/) [code](./dynamic/152-%E4%B9%98%E7%A7%AF%E6%9C%80%E5%A4%A7%E7%9A%84%E5%AD%90%E6%95%B0%E7%BB%84.js)
 - [300. 最长上升子序列](https://leetcode.cn/problems/longest-increasing-subsequence/) [code](./dynamic/300-%E6%9C%80%E9%95%BF%E4%B8%8A%E5%8D%87%E5%AD%90%E5%BA%8F%E5%88%97.js)
 - [322. 零钱兑换](https://leetcode.cn/problems/coin-change/) [code](./dynamic/322-%E9%9B%B6%E9%92%B1%E5%85%91%E6%8D%A2.js)
+
+## 二分查找 
+- [704. 二分查找](https://leetcode.cn/problems/binary-search/) [code](./binary-search/704-%E4%BA%8C%E5%88%86%E6%9F%A5%E6%89%BE.js)

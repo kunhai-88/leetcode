@@ -5,6 +5,7 @@
  * @return {number}
  */
 // 动态规划，时间复杂度 O(n^2)
+// 状态转移方程 dp[i] =  Math.max(dp[i], dp[j] + 1)
  var lengthOfLIS = function(nums) {
     if(!nums || nums.length < 1){
       return 0;
