@@ -14,6 +14,7 @@
 -  [20. 有效的括号](https://leetcode.cn/problems/valid-parentheses/) [code](./stack/20-%E6%9C%89%E6%95%88%E6%8B%AC%E5%8F%B7.js)
 
 ## 动态规划
+- [53. 最大子数组和](https://leetcode.cn/problems/maximum-subarray/) [code](./dynamic/53-%E6%9C%80%E5%A4%A7%E5%AD%90%E6%95%B0%E7%BB%84%E5%92%8C.js)
 - [70. 爬楼梯](https://leetcode.cn/problems/climbing-stairs/) [code](./dynamic/70-%E7%88%AC%E6%A5%BC%E6%A2%AF.js)
 - [120. 三角形的最小路径和](https://leetcode.cn/problems/triangle/) [code](./dynamic/120-%E4%B8%89%E8%A7%92%E5%BD%A2%E7%9A%84%E6%9C%80%E5%B0%8F%E8%B7%AF%E5%BE%84%E5%92%8C.js)
 - [152.乘积最大的子数组](https://leetcode.cn/problems/maximum-product-subarray/) [code](./dynamic/152-%E4%B9%98%E7%A7%AF%E6%9C%80%E5%A4%A7%E7%9A%84%E5%AD%90%E6%95%B0%E7%BB%84.js)
@@ -25,3 +26,6 @@
 
 ## LRUCache
 - [146. LRU 缓存](https://leetcode.cn/problems/lru-cache/) [code](./LRU-cache/146.LRU%20%E7%BC%93%E5%AD%98.js)
+
+## 队列
+- [215. 数组中的第K个最大元素](https://leetcode.cn/problems/kth-largest-element-in-an-array/) [code](./queue/215.%20%E6%95%B0%E7%BB%84%E4%B8%AD%E7%9A%84%E7%AC%ACK%E4%B8%AA%E6%9C%80%E5%A4%A7%E5%85%83%E7%B4%A0.js)
