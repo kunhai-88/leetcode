@@ -14,6 +14,7 @@
 -  [20. 有效的括号](https://leetcode.cn/problems/valid-parentheses/) [code](./stack/20-%E6%9C%89%E6%95%88%E6%8B%AC%E5%8F%B7.js)
 
 ## 动态规划
+- [最长回文串](https://leetcode.cn/problems/longest-palindromic-substring/) [coce](./dynamic/5-%E6%9C%80%E9%95%BF%E5%9B%9E%E6%96%87%E4%B8%B2.js)
 - [53. 最大子数组和](https://leetcode.cn/problems/maximum-subarray/) [code](./dynamic/53-%E6%9C%80%E5%A4%A7%E5%AD%90%E6%95%B0%E7%BB%84%E5%92%8C.js)
 - [70. 爬楼梯](https://leetcode.cn/problems/climbing-stairs/) [code](./dynamic/70-%E7%88%AC%E6%A5%BC%E6%A2%AF.js)
 - [120. 三角形的最小路径和](https://leetcode.cn/problems/triangle/) [code](./dynamic/120-%E4%B8%89%E8%A7%92%E5%BD%A2%E7%9A%84%E6%9C%80%E5%B0%8F%E8%B7%AF%E5%BE%84%E5%92%8C.js)
