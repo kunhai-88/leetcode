@@ -24,6 +24,7 @@
 - [322. 零钱兑换](https://leetcode.cn/problems/coin-change/) [code](./dynamic/322-%E9%9B%B6%E9%92%B1%E5%85%91%E6%8D%A2.js)
 
 ## 二分查找 
+- [153. 寻找旋转排序数组中的最小值](https://leetcode.cn/problems/find-minimum-in-rotated-sorted-array/) [code](./binary-search/704-%E4%BA%8C%E5%88%86%E6%9F%A5%E6%89%BE.js)
 - [704. 二分查找](https://leetcode.cn/problems/binary-search/) [code](./binary-search/704-%E4%BA%8C%E5%88%86%E6%9F%A5%E6%89%BE.js)
 
 ## LRUCache
