@@ -3,6 +3,7 @@
 
 ## 哈希
 -  [1.两数之和](https://leetcode.cn/problems/two-sum/) [code](./hash/1-%E4%B8%A4%E6%95%B0%E4%B9%8B%E5%92%8C.js)
+-  [3.无重复字符的最长子串](https://leetcode.cn/problems/longest-substring-without-repeating-characters/) [code](./hash/3-%E6%97%A0%E9%87%8D%E5%A4%8D%E5%AD%97%E7%AC%A6%E7%9A%84%E6%9C%80%E9%95%BF%E5%AD%90%E4%B8%B2.js)
 -  [13.罗马数字转整数](https://leetcode.cn/problems/roman-to-integer/) [code](./hash/13-%E7%BD%97%E9%A9%AC%E6%95%B0%E5%AD%97%E8%BD%AC%E6%95%B4%E6%95%B0.js)
 -  [128.最长连续序列](https://leetcode.cn/problems/longest-consecutive-sequence/) [code](./hash/128-%E6%9C%80%E9%95%BF%E8%BF%9E%E7%BB%AD%E5%BA%8F%E5%88%97.js)
 
