@@ -37,3 +37,9 @@
 
 ## 双指针
 - [15.三数之和] (https://leetcode.cn/problems/3sum/submissions/) [code](./two-points/15-%E4%B8%89%E6%95%B0%E4%B9%8B%E5%92%8C.js)
+
+## 深度优先
+[22.括号生成](https://leetcode.cn/problems/generate-parentheses/) [code](./DFS/22-%E6%8B%AC%E5%8F%B7%E7%94%9F%E6%88%90.js)
+
+## 广度优先
+- [102. 二叉树的层序遍历](https://leetcode.cn/problems/binary-tree-level-order-traversal/) [code](./BFS/102-%E4%BA%8C%E5%8F%89%E6%A0%91%E5%B1%82%E5%BA%8F%E9%81%8D%E5%8E%86.js)
