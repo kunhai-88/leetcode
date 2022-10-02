@@ -11,6 +11,7 @@
 -  [2.两数相加](https://leetcode.cn/problems/add-two-numbers/) [code](./linklist/2-%E4%B8%A4%E6%95%B0%E7%9B%B8%E5%8A%A0.js)
 - [21.合并两个有序链表](https://leetcode.cn/problems/merge-two-sorted-lists/) [code](./linklist/21-%E5%90%88%E5%B9%B6%E6%9C%89%E5%BA%8F%E9%93%BE%E8%A1%A8.js)
 - [143. 重排链表](https://leetcode.cn/problems/reorder-list/) [code](./linklist/143-%E9%87%8D%E6%8E%92%E9%93%BE%E8%A1%A8.js)
+- [206.反转链表](https://leetcode.cn/problems/reverse-linked-list/)[code](./linklist/206-%E5%8F%8D%E8%BD%AC%E9%93%BE%E8%A1%A8.js)
 
 ## 栈
 
